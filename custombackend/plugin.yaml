@@ -1,0 +1,6 @@
+plugin:
+    name: 'lexlemmens.custombackend::lang.plugin.name'
+    description: 'lexlemmens.custombackend::lang.plugin.description'
+    author: 'Lex Lemmens'
+    icon: oc-icon-user-secret
+    homepage: ''
