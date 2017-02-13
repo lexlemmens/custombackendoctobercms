@@ -1,4 +1,4 @@
-<?php namespace lexlemmens\CustomBackend;
+<?php namespace LexLemmens\CustomBackend;
 
 use System\Classes\PluginBase;
 use Illuminate\Support\Facades\Event;
